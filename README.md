@@ -28,8 +28,3 @@ During my **M.Tech in Computer Science (GGSIPU)**, my thesis focused on **Artifi
 ### 📫 Connect with Me
 - **LinkedIn:** [Nishika Panchal](https://www.linkedin.com/in/nishikapanchal)    
 - **GitHub:** [nishikapanchal28](https://github.com/nishikapanchal28)  
-
----
-
-### 📈 GitHub Stats
-![Nishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishikapanchal28&show_icons=true&theme=radical)
